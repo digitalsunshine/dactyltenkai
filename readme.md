@@ -1,9 +1,5 @@
 # dactyl_tenkai
 
-![dactyl_tenkai](https://i.imgur.com/PYL3Ca2.png)
-
-A custom build of an ergodox dactyl using a Teensy. Pins are custom.
-
 Keyboard Maintainer: digitalsunshine
 Hardware Supported: Left side of the dactyl only  
 Hardware Availability: Custom job
