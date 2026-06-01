@@ -1,7 +1,9 @@
 # dactyl_tenkai
 
 Keyboard Maintainer: digitalsunshine
-Hardware Supported: Left side of the dactyl only  
+
+Hardware Supported: Left side of the dactyl only 
+
 Hardware Availability: Custom job
 
 Make example for this keyboard (after setting up your build environment):
