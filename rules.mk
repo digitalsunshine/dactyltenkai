@@ -1,5 +1,5 @@
 # MCU name
-MCU = atmega32u4
+MCU = RP2040
 
 
 # Bootloader selection
@@ -9,7 +9,7 @@ MCU = atmega32u4
 #   LUFA DFU     lufa-dfu
 #   QMK DFU      qmk-dfu
 #   atmega32a    bootloadHID
-BOOTLOADER = halfkay
+BOOTLOADER = RP2040
 
 
 # Build Options
