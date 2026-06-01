@@ -1,5 +1,5 @@
 /*
-Copyright 2019 RedForty
+Copyright 2026 Digitalsunshine
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -23,7 +23,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VENDOR_ID 0xFEED
 #define PRODUCT_ID 0x0000
 #define DEVICE_VER 0x0001
-#define MANUFACTURER RedForty
+#define MANUFACTURER Digitalsunshine
 #define PRODUCT dactyl_tenkai
 #define DESCRIPTION A custom keyboard
 
