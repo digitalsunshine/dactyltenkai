@@ -1,6 +1,6 @@
 # MCU name
 MCU = RP2040
-
+BOARD = XIAO_RP2040
 
 # Bootloader selection
 #   Teensy       halfkay
